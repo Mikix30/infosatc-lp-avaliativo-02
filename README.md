@@ -1,7 +1,4 @@
 
-
-
- 
 <br><a href="https://web.satc.edu.br/">
 <img src="logo.png">
 <br>

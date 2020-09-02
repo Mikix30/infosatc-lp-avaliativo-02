@@ -19,7 +19,7 @@
 <img src="you.png">
 </a>
 # <a href="https://www.instagram.com/infosatc/"> Curso de informática.</a>
- 31/08/2020
+ 02/09/2020
 
 
 
